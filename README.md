@@ -1,13 +1,4 @@
-              ＿＿
-　　　 　　 ／＞　　フ
-　　　 　　| 　_　 _ l
-　 　　 　／` ミ＿xノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　二つ
+
 - 👋 Hi, I’m @annamalaicoderays
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently doing ...Node JS,PHP,MySQL,MongoDB,Javascript,JQuery
